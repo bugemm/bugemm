@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**bugemm/bugemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am Zaim, an inspiring software engineer based in the UK.
 
-Here are some ideas to get you started:
+Currently honing my skills in web development, coding and security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Planning to make a personal project on developing a website for a restaurant and maybe delve into other small projects. 
+
+I have made other websites such as a banking/mortgage calculator app when I was taking HND (Higher National Diploma) in Brunei Also did a dissertation on how using data driven innovation impacted sustainable development in healthcare systems with the help of big data.
+
+Fun facts:
+- I skate and boulder
+- Code geass is the best anime out there
+- Milo is the best drink in the world
+- I was born in America
